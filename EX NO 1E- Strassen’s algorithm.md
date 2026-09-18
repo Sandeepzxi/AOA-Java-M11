@@ -1,6 +1,6 @@
 # EX 1E Integer Multiplication using Divide and Conquer Approach(Strassen’s algorithm).
 
-## DATE: 17-04-2026
+## DATE: 27-07-2026
 
 ### Developed By: Sandeep S
 
